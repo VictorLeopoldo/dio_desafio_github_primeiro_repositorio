@@ -1,5 +1,5 @@
 Links uteis
 
 Git (download) - https://gitforwindows.org/
-o Git Bash é um terminal extendido para otimizar o uso do 
+O Git Bash é um terminal extendido para otimizar o uso do 
 Git
